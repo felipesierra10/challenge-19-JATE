@@ -18,9 +18,9 @@ N/A
 
 ## Usage
 
-Here is the link: 
+Here is the link: https://felipesierra10.github.io/challenge-19-JATE/
 
-Heroku Link:
+Heroku Link: https://jate1000-7334bc509de1.herokuapp.com/
 
 ## Credits
 
@@ -47,4 +47,3 @@ Felipe
 using Heroku
 Using VS Code
 
-https://jate1000-7334bc509de1.herokuapp.com/
